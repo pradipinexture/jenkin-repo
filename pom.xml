@@ -42,6 +42,8 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>tomcat-deployment</finalName>
 	</build>
 
 </project>
+
